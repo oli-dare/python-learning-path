@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26bbf8d9-d6c1-4635-8934-55781abe80f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/01.02-hr_systems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/01.04-employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/01.05-hyperparameters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/sensor_systems.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/01.01-sensor_systems.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/user_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/01.03-hr_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/01.06-wallet_system.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +35,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.01.04-employee.executor": "Run",
     "Python.01.05-hyperparameters.executor": "Run",
+    "Python.01.06-wallet_system.executor": "Run",
     "Python.devices.executor": "Run",
     "Python.hr_systems.executor": "Run",
     "Python.ml_engine.executor": "Run",
