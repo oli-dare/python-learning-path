@@ -1,4 +1,5 @@
 class ModelConfig:
+    """Creates a private Attribute"""
     def __init__(self, _lr):
         self._lr = _lr
 
