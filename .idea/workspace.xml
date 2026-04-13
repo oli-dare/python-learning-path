@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26bbf8d9-d6c1-4635-8934-55781abe80f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/01.09-user_profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/01.10-gaming_stats.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
     "Python.01.07-celcius.executor": "Run",
     "Python.01.08-engine_control.executor": "Run",
     "Python.01.09-user_profile.executor": "Run",
+    "Python.01.10-gaming_stats.executor": "Run",
     "Python.devices.executor": "Run",
     "Python.hr_systems.executor": "Run",
     "Python.ml_engine.executor": "Run",
