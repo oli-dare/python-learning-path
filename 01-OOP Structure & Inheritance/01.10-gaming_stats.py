@@ -16,6 +16,8 @@ class LeaderBoard:
 
 p1 = LeaderBoard(500)
 # p1.score = 1500000 would not work
+p1.score = 400
+p1.score = 600
 print(p1.score)
 
 
