@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26bbf8d9-d6c1-4635-8934-55781abe80f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01-OOP Structure &amp; Inheritance/01.11-fleet_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,27 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.01.04-employee.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.05-hyperparameters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.06-wallet_system.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.07-celcius.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.08-engine_control.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.09-user_profile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.10-gaming_stats.executor&quot;: &quot;Run&quot;,
-    &quot;Python.devices.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hr_systems.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ml_engine.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sensor_systems.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.user_system.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01.04-employee.executor": "Run",
+    "Python.01.05-hyperparameters.executor": "Run",
+    "Python.01.06-wallet_system.executor": "Run",
+    "Python.01.07-celcius.executor": "Run",
+    "Python.01.08-engine_control.executor": "Run",
+    "Python.01.09-user_profile.executor": "Run",
+    "Python.01.10-gaming_stats.executor": "Run",
+    "Python.01.11-fleet_service.executor": "Run",
+    "Python.devices.executor": "Run",
+    "Python.hr_systems.executor": "Run",
+    "Python.ml_engine.executor": "Run",
+    "Python.sensor_systems.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.user_system.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Oli\PycharmProjects\Python-Learning-Path\01-OOP Structure &amp; Inheritance" />
